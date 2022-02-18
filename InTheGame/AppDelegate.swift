@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  InTheGame
-//
-//  Created by Pablo Mateos García on 20/02/2019.
-//  Copyright © 2019 Roberto IP & Pablo MG. All rights reserved.
-//
+// Pablo Mateos García
 
 import UIKit
 
